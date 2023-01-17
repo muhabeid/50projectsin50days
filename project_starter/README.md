@@ -18,4 +18,7 @@ In VS there's an Emet which is a tool that is pre-installed with VS Code that he
 (div.myclass) instead we can just use it like this (.myclass) (#myid) both ways works.
 
 ## - If we want to write more than one div, we can just casually introduce a multiplication sign
-(div*n) - n in this case is the number we want to multiply 
+(div*n) - n in this case is the number we want to multiply i.e (div*3) this will give three instances of div.
+
+# To read and know more on Emet watch this video by Kevin Powell
+- https://youtu.be/EhRPdUv1ZrA
