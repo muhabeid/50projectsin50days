@@ -22,3 +22,14 @@ In VS there's an Emet which is a tool that is pre-installed with VS Code that he
 
 # To read and know more on Emet watch this video by Kevin Powell
 - https://youtu.be/EhRPdUv1ZrA
+
+# Extensions used in this tutorials and code along involved:
+## Live Server 
+- Which basically let you open the project on a development server that will auto reload whenever you make changes all along the path.
+
+## Auto Rename tag 
+- This just renames the end of the HTML tag once you renames the beginning tag.
+
+## Bracket Pair Colorizer
+- This just colorizes your brackets, your parentheses and curly braces.
+
